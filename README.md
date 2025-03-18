@@ -18,8 +18,6 @@ A robust and gas-efficient **Crowdfunding Smart Contract** system built with Sol
 
 ## 🔐 Smart Contract Overview
 
-### ✅ Contract Name:
-`CrowdfundingSystem`
 
 ### 🛠️ Key Concepts Implemented:
 
